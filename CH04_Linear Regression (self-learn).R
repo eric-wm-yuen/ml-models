@@ -1,3 +1,4 @@
+# Linear Regression
 library(tidyverse)
 bikes <- read.csv(file = "bikes.csv")
 bikes <- read_csv("bikes.csv", col_types = "Dffffddddd")
